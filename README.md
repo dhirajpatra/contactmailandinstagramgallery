@@ -36,9 +36,11 @@ Dhiraj PatraSoftware Requirement Specifications – Contact Us & Gallery
 Pages
 
 Home
+
 It has menu for both Contact Us and Gallery application.
 
 Contact Us
+
 This is contact us page to give customer details to send mail by mailgun to customer support, save
 into DB, save into Airtable.
 2
