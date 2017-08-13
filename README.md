@@ -2,7 +2,9 @@
 Project: Contact Form with airtable and mailgun. Project: Photo Gallery with instagram API.
 
 ## Software Requirement Specifications – Contact Us & Gallery
-Project: Contact Form
+
+### Project: Contact Form
+
 When a user can't find their answer on our FAQ pages, they should be able to send us their question.
 Therefore we need to create a webpage with a form where a user can ask a question.
 The question should be emailed to our customer support and saved in a database.
@@ -49,7 +51,9 @@ Dhiraj PatraSoftware Requirement Specifications – PastBook – Contact Us & Ga
 After filling form [highly secure with csrf check and validation are there] it showing message
 “Thanks for contacting us”.
 ======================================================================
-Project: Photo Gallery
+
+### Project: Photo Gallery
+
 We want to let a user see a gallery of his/her pictures from a cloud service where they are stored.
 As cloud service you can use any of these: Facebook, Instagram, Flickr, Dropbox, Google Photos
 Task
