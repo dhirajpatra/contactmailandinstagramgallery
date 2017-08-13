@@ -31,11 +31,13 @@ Laravel 5.4, PHP 7.1, Mysql 5.6, phpunit, oauth2 [installed not used due to I do
 
 DFD
 1
-Dhiraj PatraSoftware Requirement Specifications – PastBook – Contact Us & Gallery
+Dhiraj PatraSoftware Requirement Specifications – Contact Us & Gallery
+
 Pages
- Home
+
+Home
 It has menu for both Contact Us and Gallery application.
-
+
 Contact Us
 This is contact us page to give customer details to send mail by mailgun to customer support, save
 into DB, save into Airtable.
@@ -49,6 +51,7 @@ After filling form [highly secure with csrf check and validation are there] it s
 
 We want to let a user see a gallery of his/her pictures from a cloud service where they are stored.
 As cloud service you can use any of these: Facebook, Instagram, Flickr, Dropbox, Google Photos
+
 Task
 Let user login on the cloud service
 Retrieve some photos via API
